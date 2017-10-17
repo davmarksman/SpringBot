@@ -1,4 +1,4 @@
-package me.aboullaite;
+package me.davmarksman;
 
 import com.github.messenger4j.MessengerPlatform;
 import com.github.messenger4j.exceptions.MessengerApiException;

@@ -1,4 +1,4 @@
-package me.aboullaite.domain;
+package me.davmarksman.domain;
 
 /**
  * Created by aboullaite on 2017-02-26.
