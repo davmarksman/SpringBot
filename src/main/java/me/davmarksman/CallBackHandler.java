@@ -146,9 +146,10 @@ public class CallBackHandler {
                 }
             } catch (MessengerApiException | MessengerIOException e) {
                 handleSendException(e);
-            } catch (IOException e) {
-                handleIOException(e);
             }
+//            } catch (IOException e) {
+//                handleIOException(e);
+//            }
         };
     }
 
