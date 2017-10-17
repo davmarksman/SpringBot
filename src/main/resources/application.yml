@@ -1,7 +1,7 @@
 messenger4j:
-  appSecret:
-  verifyToken :
-  pageAccessToken:
+  appSecret: b2711704201854e6e78676c91d2fe2ec
+  verifyToken : dogwalk
+  pageAccessToken: EAAa5ea6KNKYBANrIKVsHW9iUv9M02xrQC35CHsZALV0uZCdooF3Ja5zNzfkgnMA4hw6Yf5WUB1ZCsenk2YYiMeG2u5xSeMOBqOzvArFSb6kTqtyqZCN4g7W7eR19A4BSxUsscd2apyB7WSZC3jnVLf15jv9W1DS7fPN3vDLY5AwZDZD
 
 logging:
   level:
